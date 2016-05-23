@@ -15,4 +15,5 @@ public class Listtest {
         System.out.println(a);
         System.out.println(a.trim());
     }
+
 }
