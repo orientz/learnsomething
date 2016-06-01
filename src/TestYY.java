@@ -17,9 +17,9 @@ public class TestYY {
     public static String b2="123";
 
     public static void main(String[] args) {
-        /*System.out.println(a1==b1);
+        System.out.println(a1==b1);
         System.out.println(a2==b2);
-        System.out.println(a1.equals(b1));*/
+        System.out.println(a1.equals(b1));
         int num=0;
         for(int i=1000;i<=1999;i++){
             String s=String.valueOf(i);
