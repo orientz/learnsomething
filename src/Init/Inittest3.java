@@ -11,7 +11,7 @@ public class Inittest3 {
     }
 
     public static void main(String[] args) {
-        Inittest3 I=new Inittest3(),b=new Inittest3();
+        Inittest3 I=new Inittest3();
     }
 
 }
