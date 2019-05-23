@@ -1,4 +1,4 @@
-package ThreadDemo;
+package Thread.ThreadDemo;
 
 import java.util.ArrayList;
 

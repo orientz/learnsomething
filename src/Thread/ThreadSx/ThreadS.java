@@ -1,4 +1,4 @@
-package ThreadSx;
+package Thread.ThreadSx;
 
 import java.lang.reflect.Array;
 

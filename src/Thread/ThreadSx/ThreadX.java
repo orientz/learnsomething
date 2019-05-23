@@ -1,4 +1,4 @@
-package ThreadSx;
+package Thread.ThreadSx;
 
 /**
  * Created by wb-cengyanyu on 2016/4/22.

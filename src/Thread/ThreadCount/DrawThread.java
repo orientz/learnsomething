@@ -1,4 +1,4 @@
-package ThreadCount;
+package Thread.ThreadCount;
 
 /**
  * Created by wb-cengyanyu on 2016/4/25.

@@ -1,4 +1,4 @@
-package ThreadSafe;
+package Thread.ThreadSafe;
 
 import java.util.*;
 

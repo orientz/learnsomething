@@ -1,4 +1,4 @@
-package ThreadTest;
+package Thread.ThreadTest;
 
 /**
  * Created by wb-cengyanyu on 2016/4/15.
